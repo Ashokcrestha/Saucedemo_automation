@@ -1,0 +1,27 @@
+2026-01-14 10:16:37.844744,Checkout Failure,Checkout failed for problem_user,Medium,P2
+2026-01-14 10:16:49.793553,Checkout Failure,Checkout failed for performance_glitch_user,Medium,P2
+2026-01-14 10:16:56.625256,Checkout Failure,Checkout failed for error_user,Medium,P2
+2026-01-14 10:26:41.878626,Checkout Failure,Checkout failed for problem_user,Medium,P2
+2026-01-14 10:27:54.660970,Checkout Failure,Checkout failed for error_user,Medium,P2
+2026-01-14 10:44:05.621227,Cart Verification Failed,"Missing items for standard_user: ['Sauce Labs Bike Light', 'Sauce Labs Bolt T-Shirt']",High,P1
+2026-01-14 10:44:22.944470,Cart Verification Failed,Missing items for problem_user: ['Sauce Labs Bolt T-Shirt'],High,P1
+2026-01-14 10:44:45.126794,Cart Verification Failed,Missing items for performance_glitch_user: ['Sauce Labs Bolt T-Shirt'],High,P1
+2026-01-14 10:50:04.661928,Cart Verification Failed,Missing items for problem_user: ['Sauce Labs Bolt T-Shirt'],High,P1
+2026-01-14 10:50:51.078277,Cart Verification Failed,Missing items for error_user: ['Sauce Labs Bolt T-Shirt'],High,P1
+Cart Verification Failed,Missing items for problem_user: ['Sauce Labs Bolt T-Shirt'],High,P1
+Cart Verification Failed,Missing items for problem_user: ['Sauce Labs Bolt T-Shirt'],High,P1
+Login / Inventory Load Failure,Inventory page did not load for error_user after login,High,P1
+Login Test,"Login failed for locked_out_user: Epic sadface: Sorry, this user has been locked out.",Medium,P2
+Login Test,Login failed for invalid_user: Epic sadface: Username and password do not match any user in this service,Medium,P2
+Cart Verification,Test.allTheThings() T-Shirt (Red) missing or price mismatch for problem_user,Medium,P2
+Cart Verification,Sauce Labs Fleece Jacket missing or price mismatch for problem_user,Medium,P2
+2026-01-18 09:11:00.739321,Checkout Failure,Checkout failed for performance_glitch_user,Medium,P2
+2026-01-18 09:19:50.311053,Checkout Failure,Checkout failed for problem_user,Medium,P2
+2026-01-18 09:23:55.461890,Checkout Failure,Checkout failed for problem_user,Medium,P2
+2026-01-18 09:25:09.299803,Checkout Failure,Checkout failed for error_user,Medium,P2
+2026-01-18 11:18:42.792026,Checkout Failure,Checkout failed for problem_user,Medium,P2
+2026-01-18 11:19:53.244473,Checkout Failure,Checkout failed for error_user,Medium,P2
+2026-01-18 11:38:54.068478,Checkout Failure,Checkout failed for problem_user,Medium,P2
+2026-01-18 11:40:04.243835,Checkout Failure,Checkout failed for error_user,Medium,P2
+2026-01-18 11:54:37.164039,Checkout Failure,Checkout failed for problem_user,Medium,P2
+2026-01-18 11:55:48.242698,Checkout Failure,Checkout failed for error_user,Medium,P2
